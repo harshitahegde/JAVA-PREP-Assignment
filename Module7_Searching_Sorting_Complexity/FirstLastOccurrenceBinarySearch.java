@@ -1,3 +1,4 @@
+
 public class FirstLastOccurrenceBinarySearch {
 
     public static void main(String[] args){

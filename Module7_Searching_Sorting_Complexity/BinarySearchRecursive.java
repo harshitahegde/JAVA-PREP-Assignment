@@ -1,3 +1,4 @@
+
 public class BinarySearchRecursive {
 
     static int search(int arr[],int low,int high,int key){
